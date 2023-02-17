@@ -59,7 +59,7 @@ header > h1 {
     text-shadow: 2px 2px Opx rgba(0, 0, 0, 0.268)
 }
 
-header > p{
+header > p {
    font-family: var(--fonte-destaque);
    font-size: 1.2em;
    color: white;
@@ -67,7 +67,7 @@ header > p{
    padding-left: 10px;
    padding-right: 10px;
    margin: auto;
-   margin-bottom: 20px;
+   padding-bottom: 50px;
    text-shadow: 2px 2px Opx rgba(0, 0, 0, 0.315)
 }
 
